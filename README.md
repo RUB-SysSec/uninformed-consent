@@ -5,14 +5,14 @@ Supporting material to the CCS 2019 paper, "(Un)informed Consent: Studying GDPR 
 
 # Errata
 
-After the camera-ready deadline of ACM CCS 2019, we noticed an error in the figures depicting the interaction rates with the consent notices (Figures X--Y in the paper). This does not affect the overall results of our experiments.
+After the camera-ready deadline of ACM CCS 2019, we noticed an error in the figures depicting the interaction rates with the consent notices (Figures 3, 4, and 6 in the paper). This does not affect the overall results of our experiments.
 We fixed this, along with some minor typos. The updated version of the paper is available at:
 * [arXiv](https://arxiv.org/pdf/1909.02638.pdf)
 * [Ruhr University Bochum website](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2019/10/22/uninformedconsent.pdf)
 
 # Notices
 
-This section depicts all of the consent notices / conditions tested in Experiments 1--3.
+This section depicts all of the consent notices / conditions tested in Experiments 1-3.
 Note that the text of the notices was translated to English from the German originals.
 
 ## Experiment 1: Position
@@ -24,6 +24,8 @@ In Experiment 1, the following notice (referred to as BIN-S1 in Appendix B) was 
 ![Positions tested in Experiment 1](https://github.com/RUB-SysSec/uninformed-consent/blob/master/images/position-v3.png "Positions tested in Experiment 1")
 
 ## Experiment 2: Choices, Nudging
+
+For the checkbox-based notices (Category and Vendor types), the order of the checkboxes was randomized for each user, except for the Necessary category, which was always displayed first.
 
 |              |  |
 |-------------------------|----------|
