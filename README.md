@@ -1,7 +1,7 @@
 # (Un)informed Consent: Studying GDPR Consent Notices in the Field
 Supporting material to the CCS 2019 paper, "(Un)informed Consent: Studying GDPR Consent Notices in the Field".
 
-**Last update: November 11, 2019**
+*Last update: November 11, 2019*
 
 # Errata
 
