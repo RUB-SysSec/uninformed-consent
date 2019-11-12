@@ -6,7 +6,9 @@ Supporting material to the CCS 2019 paper, "(Un)informed Consent: Studying GDPR 
 # Errata
 
 After the camera-ready deadline of ACM CCS 2019, we noticed an error in the figures depicting the interaction rates with the consent notices (Figures X--Y in the paper). This does not affect the overall results of our experiments.
-We fixed this and uploaded the updated version of the paper to [arXiv](https://arxiv.org/pdf/1909.02638.pdf) and the [Ruhr University Bochum website](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2019/10/22/uninformedconsent.pdf).
+We fixed this, along with some minor typos. The updated version of the paper is available at:
+* [arXiv](https://arxiv.org/pdf/1909.02638.pdf)
+* [Ruhr University Bochum website](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2019/10/22/uninformedconsent.pdf)
 
 # Notices
 
